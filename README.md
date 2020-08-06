@@ -8,9 +8,7 @@
 
 [<img align="left" alt="Temerold | YouTube" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/Youtube-logo-with-new-style-on-transparent-background-PNG.png" />][youtube]
 [<img align="left" alt="realTemerold | Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
-[<img align="left" alt="Temerold.se | Website" width="22px" src="pinclipart.com/picdir/big/55-558262_globe-internet-comments-png-url-icon-white-clipart.png" />][website]
 
-<br />
 
 ### Languages:
 
