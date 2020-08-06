@@ -8,12 +8,15 @@
 
 [<img align="left" alt="Temerold | YouTube" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/Youtube-logo-with-new-style-on-transparent-background-PNG.png" />][youtube]
 [<img align="left" alt="realTemerold | Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
-
+[<img align="left" alt="Temerold.se | Website" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/internet.png" />][website]
+<br />
 
 ### Languages:
 
 [<img align="left" alt="HTML5" width="26px" src="https://temerold.se/wp-content/uploads/2020/08/python.png" />][python]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+
+<br />
 
 ### Tools:
 
