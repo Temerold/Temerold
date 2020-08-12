@@ -1,6 +1,6 @@
-### Sup, bitch - I'm [Tobbe][website]! 👋
+### Hello - I'm [Tobbe][website]! 👋
 
-## I'm a programemr - from Sweden :)
+## I'm a programmer - from Sweden :)
 - 👯 I’m looking to collaborate with other content creators.
 - 🇸🇪 I'm born, and live in Sweden.
 
