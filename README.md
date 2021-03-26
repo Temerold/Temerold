@@ -1,8 +1,6 @@
 ### Hello - I'm [Tobbe][website]! 👋
 
 ## I'm a programmer - from Sweden :)
-- 👯 I’m looking to collaborate with other content creators.
-- 🇸🇪 I'm born, and live in Sweden.
 
 ### Contact me:
 
@@ -17,7 +15,9 @@
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />][cs]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />][js]
-[<img align="left" alt="Python" width="26px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][lua]
+[<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][lua]
+[<img align="left" alt="Markdown" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-2752127-2284944.png" />][md]
+<br />
 [<img align="left" alt="Python" width="26px" src="https://temerold.se/wp-content/uploads/2020/08/python.png" />][python]
 <br />
 
@@ -26,7 +26,6 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
 <br />
 
 <img align="left" alt="Temerolds Github Stats" src="https://github-readme-stats.vercel.app/api?username=Temerold&show_icons=true&hide_border=true" />
@@ -39,6 +38,7 @@
 [html]: https://www.w3.org/html/
 [js]: https://www.javascript.com/
 [lua]: http://www.lua.org/
+[md]: https://www.markdownguide.org/
 [python]: https://www.python.org/
 
 [vsc]: https://code.visualstudio.com/
