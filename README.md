@@ -13,12 +13,12 @@
 
 ### Languages:
 
+[<img align="left" alt="Batch" width="26px" src="https://p1.hiclipart.com/preview/813/900/856/dots-command-prompt-logo-png-clipart.jpg" />][batch]
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />][cs]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="Python" width="26px" src="https://temerold.se/wp-content/uploads/2020/08/python.png" />][python]
 [<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />][js]
-
-
+[<img align="left" alt="Python" width="26px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][lua]
+[<img align="left" alt="Python" width="26px" src="https://temerold.se/wp-content/uploads/2020/08/python.png" />][python]
 <br />
 
 ### Tools:
@@ -38,6 +38,7 @@
 [cs]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [html]: https://www.w3.org/html/
 [js]: https://www.javascript.com/
+[lua]: http://www.lua.org/
 [python]: https://www.python.org/
 
 [vsc]: https://code.visualstudio.com/
