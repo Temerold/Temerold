@@ -11,7 +11,7 @@
 
 ### Languages:
 
-[<img align="left" alt="Batch" width="26px" src="https://p1.hiclipart.com/preview/813/900/856/dots-command-prompt-logo-png-clipart.jpg" />][batch]
+[<img align="left" alt="Batch" width="26px" src="https://p1.hiclipart.com/preview/813/900/856/dots-command-prompt-logo-png-clipart.jpg" />]
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />][cs]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />][js]
