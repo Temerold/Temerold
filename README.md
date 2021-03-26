@@ -17,7 +17,6 @@
 [<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />][js]
 [<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][lua]
 [<img align="left" alt="Markdown" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-2752127-2284944.png" />][md]
-<br />
 [<img align="left" alt="Python" width="26px" src="https://temerold.se/wp-content/uploads/2020/08/python.png" />][python]
 <br />
 
