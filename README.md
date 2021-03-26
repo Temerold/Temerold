@@ -13,8 +13,11 @@
 
 ### Languages:
 
-[<img align="left" alt="HTML5" width="26px" src="https://temerold.se/wp-content/uploads/2020/08/python.png" />][python]
+[<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />][cs]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="Python" width="26px" src="https://temerold.se/wp-content/uploads/2020/08/python.png" />][python]
+[<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />][js]
+
 
 <br />
 
@@ -31,8 +34,12 @@
 [website]: https://Temerold.se
 [twitter]: https://twitter.com/realTemerold
 [youtube]: https://www.youtube.com/channel/UCC6cG7F2pOvENg18jL5Q8cQ
-[python]: https://www.python.org/downloads/
+
+[cs]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [html]: https://www.w3.org/html/
+[js]: https://www.javascript.com/
+[python]: https://www.python.org/
+
 [vsc]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
