@@ -4,8 +4,8 @@
 ### I've been coding since I was eight; self-taught hobbyist.
 #### I'd like to collaborate with others, to improve my skills.
 If you're using my programs - please tell! :)
-Seeing people using my code makes me motivated to keep on going, you may also come with suggestions with new projects!
-It would make me happy if anyone sponsored me. :)
+Seeing people using my code makes me motivated to keep on going, you may also come with suggestions for new projects!
+It would make me very happy if anyone sponsored me. :)
 ### Contact me:
 
 [<img align="left" alt="Temerold | YouTube" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/Youtube-logo-with-new-style-on-transparent-background-PNG.png" />][youtube]
