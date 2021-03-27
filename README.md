@@ -10,9 +10,9 @@ It would make me very happy if anyone sponsored me. :)
 
 [<img align="left" alt="Temerold | YouTube" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/Youtube-logo-with-new-style-on-transparent-background-PNG.png" />][youtube]
 [<img align="left" alt="realTemerold | Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
+[<img align="left" alt="Official Temerold Server | Discord" width="22px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" />][discord]
 [<img align="left" alt="Temerold.se | Website" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/internet.png" />][website]
 <br />
-
 ### Languages:
 
 [<img align="left" alt="Batch" width="26px" src="https://miro.medium.com/max/448/1*Fq0GuTM3LZ7S6I_mW1hD9A.png" />][batch]
@@ -33,9 +33,10 @@ It would make me very happy if anyone sponsored me. :)
 
 <img align="left" alt="Temerolds Github Stats" src="https://github-readme-stats.vercel.app/api?username=Temerold&show_icons=true&hide_border=true" />
 
-[website]: https://Temerold.se
-[twitter]: https://twitter.com/realTemerold
 [youtube]: https://www.youtube.com/channel/UCC6cG7F2pOvENg18jL5Q8cQ
+[twitter]: https://twitter.com/realTemerold
+[discord]: https://discord.com/invite/ujVy77r
+[website]: https://Temerold.se
 
 [batch]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [cs]: https://docs.microsoft.com/en-us/dotnet/csharp/
