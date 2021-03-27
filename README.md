@@ -49,3 +49,5 @@ It would make me very happy if anyone sponsored me. :)
 [vsc]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold)](https://github.com/anuraghazra/github-readme-stats)
