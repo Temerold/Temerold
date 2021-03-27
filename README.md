@@ -32,7 +32,7 @@ It would make me very happy if anyone sponsored me. :)
 <br />
 
 <img align="left" alt="Temerold's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Temerold&show_icons=true&hide_border=true" />
-<img align="left" alt="Temerold's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temerold&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=15151" />
+
 [youtube]: https://www.youtube.com/channel/UCC6cG7F2pOvENg18jL5Q8cQ
 [twitter]: https://twitter.com/realTemerold
 [discord]: https://discord.com/invite/ujVy77r
