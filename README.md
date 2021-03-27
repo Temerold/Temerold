@@ -1,6 +1,6 @@
 ### Hello - I'm [Tobbe][website]! 👋
 
-## I'm a 12-year-old programmer from Sweden :)
+## Hi. I'm a 12-year-old programmer from Sweden :)
 ### I've been coding since I was eight; self-taught hobbyist.
 #### I'd like to collaborate with others, to improve my skills.
 If you're using my code - please tell! :)
