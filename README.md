@@ -1,7 +1,7 @@
 ### Hello - I'm [Tobbe][website]! 👋
 
 ## Hi. I'm a 12-year-old programmer from Sweden :)
-### I've been coding since I was eight; self-taught hobbyist.
+### I've been coding since I was eight; I'm a self-taught hobbyist.
 #### I'd like to collaborate with others, to improve my skills.
 If you're using my code - please tell! :)
 Seeing people using my code makes me motivated to keep on going, you may also come with suggestions for new projects!
