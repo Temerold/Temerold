@@ -16,10 +16,8 @@ It would make me very happy if anyone sponsored me. :)
 ### Languages:
 
 [<img align="left" alt="Batch" width="26px" src="https://miro.medium.com/max/448/1*Fq0GuTM3LZ7S6I_mW1hD9A.png" />][batch]
-[<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />][cs]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />][js]
-[<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][lua]
 [<img align="left" alt="Markdown" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-2752127-2284944.png" />][md]
 [<img align="left" alt="Python" width="26px" src="https://temerold.se/wp-content/uploads/2020/08/python.png" />][python]
 <br />
