@@ -1,4 +1,4 @@
-### Hello - I'm [Tobbe][website]! 👋
+### Hello - I'm [Temerold][website]! 👋
 
 ## Hi. I'm a 12-year-old programmer from Sweden :)
 ### I've been coding since I was eight; I'm a self-taught hobbyist.
