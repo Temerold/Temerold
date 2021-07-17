@@ -45,4 +45,4 @@ Seeing people use my code makes me motivated to keep on going, you may also come
 [git]: https://git-scm.com/
 [github]: https://github.com/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
