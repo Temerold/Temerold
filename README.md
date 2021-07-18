@@ -5,13 +5,8 @@
 #### I'd like to collaborate with others, to improve my skills.
 If you're using my code - please tell! :)
 Seeing people use my code makes me motivated to keep on going, you may also come with suggestions for new projects! By the way, it would make me very happy if anyone sponsored me. :)
-### Contact me:
 
-[<img align="left" alt="Temerold | YouTube" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/Youtube-logo-with-new-style-on-transparent-background-PNG.png" />][youtube]
-[<img align="left" alt="realTemerold | Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
-[<img align="left" alt="Official Temerold Server | Discord" width="22px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" />][discord]
-[<img align="left" alt="Temerold.se | Website" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/internet.png" />][website]
-<br />
+
 ### Languages:
 
 [<img align="left" alt="Batch" width="26px" src="https://miro.medium.com/max/448/1*Fq0GuTM3LZ7S6I_mW1hD9A.png" />][batch]
@@ -20,6 +15,15 @@ Seeing people use my code makes me motivated to keep on going, you may also come
 [<img align="left" alt="Markdown" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-2752127-2284944.png" />][md]
 [<img align="left" alt="Python" width="26px" src="https://temerold.se/wp-content/uploads/2020/08/python.png" />][python]
 <br />
+
+### Contact me:
+
+[<img align="left" alt="Temerold | YouTube" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/Youtube-logo-with-new-style-on-transparent-background-PNG.png" />][youtube]
+[<img align="left" alt="realTemerold | Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
+[<img align="left" alt="Official Temerold Server | Discord" width="22px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" />][discord]
+[<img align="left" alt="Temerold.se | Website" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/internet.png" />][website]
+<br />
+
 
 ### Tools:
 
