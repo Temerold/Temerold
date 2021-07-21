@@ -2,7 +2,7 @@
 
 ## Hi. I'm a 12-year-old programmer from Sweden :)
 ### I've been coding since I was eight; I'm a self-taught hobbyist.
-#### I'd like to collaborate with others, to improve my skills.
+
 If you're using my code - please tell! :)
 Seeing people use my code makes me motivated to keep on going, you may also come with suggestions for new projects! By the way, it would make me very happy if anyone sponsored me. :)
 
@@ -14,6 +14,7 @@ Seeing people use my code makes me motivated to keep on going, you may also come
 [<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />][js]
 [<img align="left" alt="Markdown" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-2752127-2284944.png" />][md]
 [<img align="left" alt="Python" width="26px" src="https://temerold.se/wp-content/uploads/2020/08/python.png" />][python]
+
 <br />
 
 ### Contact me:
@@ -22,6 +23,7 @@ Seeing people use my code makes me motivated to keep on going, you may also come
 [<img align="left" alt="realTemerold | Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
 [<img align="left" alt="Official Temerold Server | Discord" width="22px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" />][discord]
 [<img align="left" alt="Temerold.se | Website" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/internet.png" />][website]
+
 <br />
 
 
@@ -30,6 +32,12 @@ Seeing people use my code makes me motivated to keep on going, you may also come
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold&layout=compact&theme=white&langs_count=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Temerold)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br />
 
 [youtube]: https://www.youtube.com/channel/UCC6cG7F2pOvENg18jL5Q8cQ
@@ -49,4 +57,5 @@ Seeing people use my code makes me motivated to keep on going, you may also come
 [git]: https://git-scm.com/
 [github]: https://github.com/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--TODO: make ALL link targets "_blank". Also center btw-->
