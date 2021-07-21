@@ -35,11 +35,6 @@ Seeing people use my code makes me motivated to keep on going, you may also come
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold&layout=compact&theme=white&langs_count=10)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Temerold)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br />
-
 [youtube]: https://www.youtube.com/channel/UCC6cG7F2pOvENg18jL5Q8cQ
 [twitter]: https://twitter.com/realTemerold
 [discord]: https://discord.com/invite/ujVy77r
@@ -57,5 +52,10 @@ Seeing people use my code makes me motivated to keep on going, you may also come
 [git]: https://git-scm.com/
 [github]: https://github.com/
 
+<br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold&layout=compact&theme=white&langs_count=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=Temerold&amp;margin-w=15&amp;column=7&amp;row=3)
+
+<br />
 <!--TODO: make ALL link targets "_blank". Also center btw-->
