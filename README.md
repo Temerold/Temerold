@@ -1,6 +1,6 @@
 ### Hello - I'm [Temerold][website]! 👋
 
-## Hi. I'm a 12-year-old programmer from Sweden :)
+## Hi. I'm a 13-year-old programmer from Sweden :)
 ### I've been coding since I was eight; I'm a self-taught hobbyist.
 
 If you're using my code - please tell! :)
