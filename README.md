@@ -21,7 +21,7 @@ Seeing people use my code makes me motivated to keep on going, you may also come
 
 [<img align="left" alt="Temerold | YouTube" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/Youtube-logo-with-new-style-on-transparent-background-PNG.png" />][youtube]
 [<img align="left" alt="realTemerold | Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
-[<img align="left" alt="Official Temerold Server | Discord" width="22px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" />][discord]
+<!-- [<img align="left" alt="Official Temerold Server | Discord" width="22px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" />][discord] -->
 [<img align="left" alt="Temerold.se | Website" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/internet.png" />][website]
 
 <br />
