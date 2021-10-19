@@ -3,7 +3,7 @@
 ## Hi. I'm a 13-year-old programmer from Sweden :)
 ### I've been coding since I was eight; I'm a self-taught hobbyist.
 
-If you're using my code - please tell! :)
+If you're using my code please tell! :)
 Seeing people use my code makes me motivated to keep on going, you may also come with suggestions for new projects! By the way, it would make me very happy if anyone sponsored me. :)
 
 
