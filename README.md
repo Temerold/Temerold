@@ -51,11 +51,8 @@ Seeing people use my code makes me motivated to keep on going; you may also come
 [github]: https://github.com/
 
 <br />
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold&layout=compact&theme=white&langs_count=10)
-  <br />
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temerold&theme=white)
-  <br />
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Temerold&amp;margin-w=15&amp;column=7&amp;row=3)
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold&layout=compact&theme=white&langs_count=10)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temerold&theme=white)
+![trophy](https://github-profile-trophy.vercel.app/?username=Temerold&amp;margin-w=15&amp;column=7&amp;row=3)
   
