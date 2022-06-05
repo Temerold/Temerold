@@ -18,8 +18,6 @@ Seeing people use my code makes me motivated to keep on going; you may also come
 <br />
 
 ### Contact me:
-
-[<img align="left" alt="Temerold | YouTube" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/Youtube-logo-with-new-style-on-transparent-background-PNG.png" />][youtube]
 [<img align="left" alt="realTemerold | Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
 <!-- [<img align="left" alt="Official Temerold Server | Discord" width="22px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" />][discord] -->
 [<img align="left" alt="Temerold.se | Website" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/internet.png" />][website]
@@ -53,10 +51,11 @@ Seeing people use my code makes me motivated to keep on going; you may also come
 [github]: https://github.com/
 
 <br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold&layout=compact&theme=white&langs_count=10)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temerold&theme=white)
-![trophy](https://github-profile-trophy.vercel.app/?username=Temerold&amp;margin-w=15&amp;column=7&amp;row=3)
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold&layout=compact&theme=white&langs_count=10)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temerold&theme=white)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Temerold&amp;margin-w=15&amp;column=7&amp;row=3)
+</p>
 
 <br />
 <!--TODO: make ALL link targets "_blank".-->
