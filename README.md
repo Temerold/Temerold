@@ -53,6 +53,6 @@ Seeing people use my code makes me motivated to keep on going; you may also come
 
 <br />
 
+![Activity](https://activity-graph.herokuapp.com/graph?username=Temerold&custom_title=My%20Coding%20Activity&hide_border=true&theme=react-dark&bg_color=00000000&point=004880)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold&layout=compact&theme=white&langs_count=10)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temerold&theme=white)
-![trophy](https://github-profile-trophy.vercel.app/?username=Temerold&amp;margin-w=15&amp;column=7&amp;row=3)
