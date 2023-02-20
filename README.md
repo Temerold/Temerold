@@ -4,7 +4,7 @@
 ### I've been coding since I was eight; I'm a self-taught hobbyist who enjoys programming.
 
 If you're using my code, please tell!
-Seeing people use my code makes me motivated to keep on going; you may also come with suggestions for new projects! By the way, it would make me very happy if anyone sponsored me. :)
+Seeing people use my code makes me motivated to keep on going; you may also come with suggestions for new projects!
 
 
 ### Languages:
