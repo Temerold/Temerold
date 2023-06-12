@@ -1,6 +1,6 @@
 ### Hello - I'm [Temerold][website]! 👋
 ## Hi. I'm a 14-year-old programmer from Sweden:)
-### I've been coding since I was eight; I'm a self-taught hobbyist who enjoys programming.
+### I'm a self-taught hobbyist who's been coding since eight years of age.
 
 If you're using my code, please tell!
 Seeing people use my code makes me motivated to keep on going; you may also come with suggestions for new projects!
