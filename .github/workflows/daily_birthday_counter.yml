@@ -3,6 +3,9 @@ name: Daily Birthday Counter
 on:
   schedule:
     - cron: "0 14 * * *"
+  push:
+    branches:
+      - main
 
 jobs:
   run-script:
