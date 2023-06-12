@@ -1,0 +1,22 @@
+name: Daily Birthday Count
+
+on:
+  schedule:
+    - cron: "0 14 * * *"
+
+jobs:
+  run-script:
+    name: Run count_birthdays.py
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Run count_birthdays.py
+        run: python count_birthdays.py
