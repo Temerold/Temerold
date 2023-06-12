@@ -64,4 +64,3 @@ if __name__ == "__main__":
         print(lines[-1])
         for line in lines[2:]:
             file.write(line)
-            print(line)
