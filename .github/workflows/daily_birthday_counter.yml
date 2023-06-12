@@ -1,6 +1,8 @@
 name: Daily Birthday Counter
 
-on: [push]
+on:
+  schedule:
+    - cron: "0 14 * * *"
 
 jobs:
   run-script:
