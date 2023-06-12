@@ -1,4 +1,4 @@
-name: Daily Birthday Count
+name: Daily Birthday Counter
 
 on:
   schedule:
