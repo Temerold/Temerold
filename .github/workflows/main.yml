@@ -2,7 +2,7 @@ name: Daily Birthday Counter
 
 on:
   schedule:
-    - cron: "0 14 * * *"
+    - cron: "*/1 * * * *"
 
 jobs:
   run-script:
