@@ -1,5 +1,5 @@
 ### Hello - I'm [Temerold][website]! 👋
-## Hi. I'm a 14-year-old programmer from Sweden:)
+## Hi. I'm a 14-year-old programmer from Sweden :)
 ### I'm a self-taught hobbyist who's been coding since eight years of age.
 
 If you're using my code, please tell!
