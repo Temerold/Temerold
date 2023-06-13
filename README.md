@@ -53,4 +53,3 @@ Seeing people use my code makes me motivated to keep on going; you may also come
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temerold&layout=compact&theme=white&langs_count=10)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temerold&theme=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
