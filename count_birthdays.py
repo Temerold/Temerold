@@ -57,7 +57,7 @@ if __name__ == "__main__":
         first_line = lines[0]
         file.write(first_line)
         file.write(
-            f"## Hi. I'm a {count_birthdays()}-year-old programmer from Sweden"
+            f"## Hi. I'm a {count_birthdays()}-year-old programmer from Sweden "
             ":)\n"
         )
 
