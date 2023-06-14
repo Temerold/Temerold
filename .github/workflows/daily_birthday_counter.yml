@@ -23,10 +23,18 @@ jobs:
 
       - name: Run count_birthdays.py
         run: python count_birthdays.py
-      - name: Commit changes
+      - name: Add changes to commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
+      - name: Check for changes
+        run: |
+          if [[ -z $(git diff --exit-code) ]]; then
+            echo "No changes to commit. Skipping push."
+            exit 0
+          fi
+      - name: Commit changes
+        run: |
           git commit -m "Update ``README.md``"
           git push
