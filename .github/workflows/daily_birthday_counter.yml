@@ -1,40 +1,41 @@
 name: Daily Birthday Counter
 
 on:
-  schedule:
-    - cron: "0 14 * * *"
-  push:
-    branches:
-      - main
+    schedule:
+        - cron: "0 14 * * *"
+    push:
+        branches:
+            - main
 
 jobs:
-  run-script:
-    name: Run count_birthdays.py
-    runs-on: ubuntu-latest
+    run-script:
+        name: Run count_birthdays.py
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v2
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
+            - name: Set up Python
+              uses: actions/setup-python@v2
+              with:
+                  python-version: 3.x
 
-      - name: Run count_birthdays.py
-        run: python count_birthdays.py
-      - name: Add changes to commit
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-      - name: Check for changes
-        run: |
-          if [[ -z $(git diff --exit-code) ]]; then
-            echo "No changes to commit. Skipping push."
-            exit 0
-          fi
-      - name: Commit changes
-        run: |
-          git commit -m "Update ``README.md``"
-          git push
+            - name: Run `count_birthdays.py`
+              run: python count_birthdays.py
+
+            - name: Add changes to commit
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add README.md
+
+            - name: Check for changes
+              run: |
+                  if [[ -n $(git diff --exit-code) ]]; then
+                    echo "Changes found. Proceeding with the push."
+                    git commit -m "Update age in ``README.md``"
+                    git push
+                  else
+                    echo "No changes to commit. Skipping push."
+                  fi
