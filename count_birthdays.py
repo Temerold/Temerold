@@ -60,6 +60,8 @@ if __name__ == "__main__":
             f"## Hi. I'm a {count_birthdays()}-year-old programmer from Sweden "
             ":)\n"
         )
+        print(f"## Hi. I'm a {count_birthdays()}-year-old programmer from Sweden "
+            ":)\n")
 
         for line in lines[2:]:
             file.write(line)
