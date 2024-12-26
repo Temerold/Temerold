@@ -1,6 +1,6 @@
-### Hello - I'm [Temerold][website]! 👋
-## Hi. I'm a 16-year-old programmer from Sweden :)
-### I'm a self-taught hobbyist who's been coding since eight years of age.
+### I'm [Temerold][website]! 👋
+## Hello! I'm a 16-year-old programmer from Sweden :)
+### I'm a self-taught hobbyist who's been coding since I was eight.
 
 If you're using my code, please tell!
 Seeing people use my code makes me motivated to keep on going; you may also come with suggestions for new projects!
@@ -16,7 +16,7 @@ Seeing people use my code makes me motivated to keep on going; you may also come
 
 <br />
 
-### Contact me:
+### Contact:
 [<img align="left" alt="Temerold.se | Website" width="22px" src="https://temerold.se/wp-content/uploads/2020/08/internet.png" />][website]
 [<img align="left" alt="realTemerold | Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
 [<img align="left" alt="Official Temerold Server | Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />][discord]
